@@ -1,4 +1,4 @@
-# Análise de Temperatura - Brasília 🌡️
+# Análise de Temperatura - Brasília 
 
 Projeto de análise de dados climáticos de Brasília (maio a agosto de 2026), feito para
 praticar Python aplicado à análise de dados e como peça de portfólio.
